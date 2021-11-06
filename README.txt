@@ -2,7 +2,8 @@
 PDF To Speech
 -----------------
 Dependencies:
-- pyttsx3 
+- pyttsx3 (python library)
+- sapi5 (microsoft speech-to-text engine)
 
 ----------
 More Info
